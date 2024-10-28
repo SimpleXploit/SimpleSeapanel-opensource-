@@ -2,7 +2,6 @@ local OrionLib = loadstring(game:HttpGet(('https://pastebin.com/raw/eYDSujH3')))
 loadstring(game:HttpGet('https://sirius.menu/sirius'))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Tamim468/releases/main/bypass.lua'))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Who-Is-E/Anti-Cheat-Bypass/main/Bypass.lua"))()
-loadstring(game:HttpGet('https://pastebin.com/raw/a3RKFm0F'))()
 loadstring(game:HttpGet("https://pastebin.com/raw/UqQySHcR",true))()
 
 
